@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Splunch</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="welcome_message">Prepare to Splunch!</string>
+    <string name="edit_email">Email</string>
+    <string name="edit_password">Password</string>
+    <string name="login_send">Log In</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_login">DisplayLogin</string>
+</resources>
