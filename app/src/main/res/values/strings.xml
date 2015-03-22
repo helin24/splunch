@@ -6,6 +6,8 @@
     <string name="edit_email">Email</string>
     <string name="edit_password">Password</string>
     <string name="login_send">Log In</string>
+    <string name="split_sandwich">Find sandwich</string>
+    <string name="connect_api">Connect to API</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_display_login">DisplayLogin</string>
 </resources>
